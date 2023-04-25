@@ -1,0 +1,12 @@
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/Q2-Demo
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/appsettings.json
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/Q2-Demo.dll
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/Q2-Demo.deps.json
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/Q2-Demo.runtimeconfig.json
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/Q2-Demo.pdb
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mikemartinez2/Documents/Projects/Q2-Demo/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
