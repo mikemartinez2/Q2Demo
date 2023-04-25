@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MLIjvNiBWYiXHEZ2yh/3pUstkwge6pMDqWI81lZba5QboHJGAzT8RG1OfJBy9gebgZECOyjvnuDaxLQIKhXPwA==",
+  "dgSpecHash": "uirXm2pXvwCXiq/oSaOMhS83mLWP0EW1T8S38UvkzST/+HDbsPWnXhOvZ1zkCBbsPTLS+Srh0KZS4hwlRcEGIA==",
   "success": true,
-  "projectFilePath": "/Users/mikemartinez2/Documents/Projects/Q2-Demo/Q2-Demo.csproj",
+  "projectFilePath": "/Users/mikemartinez2/Documents/Projects/Q2Demo/Q2-Demo.csproj",
   "expectedPackageFiles": [
     "/Users/mikemartinez2/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/mikemartinez2/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mikemartinez2/Documents/Projects/Q2-Demo/Q2-Demo.csproj",
+      "projectUniqueName": "/Users/mikemartinez2/Documents/Projects/Q2Demo/Q2-Demo.csproj",
       "projectName": "Q2-Demo",
-      "projectPath": "/Users/mikemartinez2/Documents/Projects/Q2-Demo/Q2-Demo.csproj",
+      "projectPath": "/Users/mikemartinez2/Documents/Projects/Q2Demo/Q2-Demo.csproj",
       "packagesPath": "/Users/mikemartinez2/.nuget/packages/",
-      "outputPath": "/Users/mikemartinez2/Documents/Projects/Q2-Demo/obj/",
+      "outputPath": "/Users/mikemartinez2/Documents/Projects/Q2Demo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mikemartinez2/.nuget/NuGet/NuGet.Config"
